@@ -17,7 +17,7 @@ function InputBox(props) {
         <div>
         <div className='inputBox'>
         <input type='text' value={inputValue} onChange={handleInput}/>
-        <button onClick={ addChildTask }>Add Task</button>
+        <button onClick={ addChildTask }>Contact Me</button>
         </div>
         </div>
         </>
